@@ -27,6 +27,6 @@ So. My story. I'm now working for sitepoint.com, and just to make it clear, my o
 
 I'm in Melbourne. To live. Looking for a place to call home, camped out in some friends' largely empty flat. It's weird and exciting to think I'm living here now - not going home at the end of the week like usual.
 
-[![](http://arcwhite.org/wp-content/uploads/2009/12/l_1600_1200_27A52B94-8818-4326-A8C0-66C13F2C9A2B.jpeg)](http://arcwhite.org/wp-content/uploads/2009/12/l_1600_1200_27A52B94-8818-4326-A8C0-66C13F2C9A2B.jpeg)
+[![](/images/l_1600_1200_27A52B94-8818-4326-A8C0-66C13F2C9A2B.jpeg)](/images/l_1600_1200_27A52B94-8818-4326-A8C0-66C13F2C9A2B.jpeg)
 
-[![](http://arcwhite.org/wp-content/uploads/2009/12/l_1600_1200_A049D2B2-6CFD-4506-B102-DFC1FAF71D83.jpeg)](http://arcwhite.org/wp-content/uploads/2009/12/l_1600_1200_A049D2B2-6CFD-4506-B102-DFC1FAF71D83.jpeg)
+[![](/images/l_1600_1200_A049D2B2-6CFD-4506-B102-DFC1FAF71D83.jpeg)](/images/l_1600_1200_A049D2B2-6CFD-4506-B102-DFC1FAF71D83.jpeg)

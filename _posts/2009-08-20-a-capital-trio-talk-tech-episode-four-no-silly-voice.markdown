@@ -18,9 +18,9 @@ tags:
 - work
 ---
 
-[podcast]http://arcwhite.org/wp-content/uploads/2009/08/04.-IE-voodoo-doll-A-Capital-Trio-Talk-Tech.mp3[/podcast]
+{% audio /audio/04.-IE-voodoo-doll-A-Capital-Trio-Talk-Tech.mp3 %}
 
-(Podcast will be up on iTunes, or you can [grab it here](http://arcwhite.org/wp-content/uploads/2009/08/04.-IE-voodoo-doll-A-Capital-Trio-Talk-Tech.mp3))
+[(Or download)](/audio/04.-IE-voodoo-doll-A-Capital-Trio-Talk-Tech.mp3)
 
 We bring you episode four, where we welcome our third panellist, Teresa Watts who shall be joining us in the future! After discussing Teresa’s awesome hand-made IE voodoo doll we move onto a good chat about our business endeavours and employment experiences. We cover Andy’s business and his lessons learned since closing it end 2008 (focus, cash-flow and buffer savings, the pros and cons of outsourcing, dedicated working positions) before moving onto Teresa’s and Pascal’s experiences in in-house and freelance positions. Issues here include focus and structure but restrictive and limiting in manner, becoming bored by working on the same thing long-term, though however how it was a good experience — we both learned what we did and didn’t like doing.
 

@@ -29,6 +29,6 @@ Czech women in particular much less shy than Australians. Got first phone number
 
 Will try to write more later!
 
-[![](http://arcwhite.org/wp-content/uploads/2009/09/p_1600_1200_75CEA5F5-0382-4197-B256-512D1EE6264F.jpeg)](http://arcwhite.org/wp-content/uploads/2009/09/p_1600_1200_75CEA5F5-0382-4197-B256-512D1EE6264F.jpeg)
+[![](/images/2009-09-04-egypt-1.jpeg)](/images/2009-09-04-egypt-1.jpeg)
 
-[![](http://arcwhite.org/wp-content/uploads/2009/09/l_1600_1200_F283001B-8AC4-4870-91F3-3A4F0C3074D6.jpeg)](http://arcwhite.org/wp-content/uploads/2009/09/l_1600_1200_F283001B-8AC4-4870-91F3-3A4F0C3074D6.jpeg)
+[![](/images/2009-09-04-egypt-2.jpeg)](/images/2009-09-04-egypt-2.jpeg)

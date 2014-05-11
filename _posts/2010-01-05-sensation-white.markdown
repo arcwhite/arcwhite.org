@@ -18,7 +18,7 @@ tags:
 - photoblog
 ---
 
-![](http://arcwhite.org/wp-content/uploads/2010/01/p_1600_1200_378E07FA-F260-4438-B7EA-60CE2FDE2440.jpeg)
+![](/images/p_1600_1200_378E07FA-F260-4438-B7EA-60CE2FDE2440.jpeg)
 
 The photos below show you where I was for New Years Eve - Sensation White! A dance/trance event of about 40,000 people held at Etihad Stadium in Melbourne.
 
@@ -34,12 +34,12 @@ Happy New Year everyone - hope 2010 is fantastic to you. (Yes the post is late, 
 
 EDIT: Cripes, forgot to mention Rohan! THANKS TO YOU TOO ROHAN! :D
 
-[![](http://arcwhite.org/wp-content/uploads/2010/01/l_1600_1200_AEDA8B32-4A3D-4071-95D2-7D9EF315A50B.jpeg)](http://arcwhite.org/wp-content/uploads/2010/01/l_1600_1200_AEDA8B32-4A3D-4071-95D2-7D9EF315A50B.jpeg)
+[![](/images/l_1600_1200_AEDA8B32-4A3D-4071-95D2-7D9EF315A50B.jpeg)](/images/l_1600_1200_AEDA8B32-4A3D-4071-95D2-7D9EF315A50B.jpeg)
 
-[![](http://arcwhite.org/wp-content/uploads/2010/01/l_1600_1200_9BA3C81D-E0F7-446F-B42A-379E8B9C523F.jpeg)](http://arcwhite.org/wp-content/uploads/2010/01/l_1600_1200_9BA3C81D-E0F7-446F-B42A-379E8B9C523F.jpeg)
+[![](/images/l_1600_1200_9BA3C81D-E0F7-446F-B42A-379E8B9C523F.jpeg)](/images//l_1600_1200_9BA3C81D-E0F7-446F-B42A-379E8B9C523F.jpeg)
 
-[![](http://arcwhite.org/wp-content/uploads/2010/01/p_1600_1200_D011C238-A150-4D30-AC59-79BEE1176808.jpeg)](http://arcwhite.org/wp-content/uploads/2010/01/p_1600_1200_D011C238-A150-4D30-AC59-79BEE1176808.jpeg)
+[![](/images/p_1600_1200_D011C238-A150-4D30-AC59-79BEE1176808.jpeg)](/images/p_1600_1200_D011C238-A150-4D30-AC59-79BEE1176808.jpeg)
 
-[![](http://arcwhite.org/wp-content/uploads/2010/01/l_1600_1200_E0A06D30-0DA4-41DD-9E3A-E62C81E45872.jpeg)](http://arcwhite.org/wp-content/uploads/2010/01/l_1600_1200_E0A06D30-0DA4-41DD-9E3A-E62C81E45872.jpeg)
+[![](/images/l_1600_1200_E0A06D30-0DA4-41DD-9E3A-E62C81E45872.jpeg)](/images/l_1600_1200_E0A06D30-0DA4-41DD-9E3A-E62C81E45872.jpeg)
 
-[![](http://arcwhite.org/wp-content/uploads/2010/01/l_1600_1200_2C75D9F1-1B3B-4BB4-B033-860191159A6E.jpeg)](http://arcwhite.org/wp-content/uploads/2010/01/l_1600_1200_2C75D9F1-1B3B-4BB4-B033-860191159A6E.jpeg)
+[![](/images/l_1600_1200_2C75D9F1-1B3B-4BB4-B033-860191159A6E.jpeg)](/images/l_1600_1200_2C75D9F1-1B3B-4BB4-B033-860191159A6E.jpeg)

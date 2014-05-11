@@ -23,9 +23,9 @@ tags:
 - podcast
 ---
 
-[podcast]http://arcwhite.org/wp-content/uploads/2009/08/03.-Richard-Nixon-The-Capital-Duo-Talk-Tech.mp3[/podcast]
+{% audio /audio/03-Richard-Nixon.mp3 %}
 
-(You can subscribe to the RSS feed for this podcast at [http://arcwhite.org/feed/podcast](http://arcwhite.org/feed/podcast), and download the file directly from [here](http://arcwhite.org/wp-content/uploads/2009/08/03.-Richard-Nixon-The-Capital-Duo-Talk-Tech.mp3))
+[(Or download)](/audio/03-Richard-Nixon.mp3)
 
 Ep. 3! From this week forth we give a quick shout-out of events nearby and around in the web-field that we consider interesting and potentially worth attending on top of the normal bag of news. Otherwise we have a quick chat about the Facebook acquisition of FriendFeed, the new Google Search (beta!) and a brief mention of this week’s über ‘wankism’: a website dedicated to chairs titled ‘chair whore’.
 

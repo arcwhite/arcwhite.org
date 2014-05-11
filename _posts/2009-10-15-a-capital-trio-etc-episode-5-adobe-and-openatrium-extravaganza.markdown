@@ -10,9 +10,9 @@ categories:
 - Podcasts
 ---
 
-[podcast]http://arcwhite.org/wp-content/uploads/2009/10/05.-Interview-with-Ian-Cairns-on-Open-Atrium-A-Capital-Trio-Talk-Tech.mp3[/podcast]
+{% audio /audio/05.-Interview-with-Ian-Cairns-on-Open-Atrium-A-Capital-Trio-Talk-Tech.mp3 %}
 
-[Download here!](http://arcwhite.org/wp-content/uploads/2009/10/05.-Interview-with-Ian-Cairns-on-Open-Atrium-A-Capital-Trio-Talk-Tech.mp3)
+[(Or download)](/audio/05.-Interview-with-Ian-Cairns-on-Open-Atrium-A-Capital-Trio-Talk-Tech.mp3)
 
 Welcome to episode 5! Just Teresa and Pascal this week as Andy is overseas. The two discuss alternatives to the Adobe product line for folks working in the web world (so raster and vector image editors and text/code editors) after Teresa has been re-considering her position on Adobe and it’s pricing. Pascal has for while been using the free and open source image editors The GIMP and Inkscape so he’ll be sharing his thoughts on those.
 

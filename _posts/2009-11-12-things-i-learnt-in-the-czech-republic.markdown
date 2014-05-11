@@ -22,7 +22,7 @@ So, a few interesting things I learnt in the Czech Republic:
   * You've probably heard that Prague is beautiful. The descriptions are not doing it justice.
 
 
-[caption id="attachment_214" align="alignleft" width="500" caption="Old Clock Tower, Old Prague"]![Old Clock Tower, Old Prague](http://arcwhite.org/wp-content/uploads/2009/11/IMG_0667.JPG)[/caption]
+![Old Clock Tower, Old Prague](/images/2009-11-Prague-Old-Clock.jpg)
 
 
 
@@ -56,7 +56,7 @@ So, a few interesting things I learnt in the Czech Republic:
 	
   * A large number of Czech people that I encountered did not seem particularly optimistic about their lot in life. I believe this to be a holdover from Communist oppression, and suspect that the Czech people will become extremely entrepreneurial over the next 10 years and that the rest of Europe should watch out. The folks I met who were optimistic and/or ambitious were powerhouses of hard work and talent.
 
-[caption id="attachment_215" align="alignright" width="500" caption="Statuary atop the State Theatre"]![Statuary atop the State Theatre](http://arcwhite.org/wp-content/uploads/2009/11/IMG_1424.JPG)[/caption]
+![Statuary atop the State Theatre](/images/2009-11-Narodni-Divadlo.jpg)
 
 	
   * There was a Czech movie a few years ago about a simple-minded young man who wore big headphones around everywhere. Walking around Prague wearing a pair of Technics headphones will earn you strange wry grins from people that will baffle you initially - all because of this movie.
@@ -74,4 +74,4 @@ So, a few interesting things I learnt in the Czech Republic:
   * Having a higher population density in an area makes a lot of really cool things possible that you just can't do in a place like Australia (re: public transport, utilities, businesses), where everyone is accustomed to having a back yard and a lot of space. Not having a yard really isn't that big an impost, in my opinion, and we should be building up rather than building out where possible.
 
 
-Finally, the key words of the language for a traveller: pivo (beer), prosim (please), dekuji/diky (thank you/thanks), dobre [den|rano|vecer] (good day|morning|night), vyborny (fantastic/delicious). Guaranteed to get a smile if you can use some of these.
+Finally, the key words of the language for a traveller: pivo (beer), prosim (please), dekuji/diky (thank you/thanks), dobre (den|rano|vecer) (good day|morning|night), vyborny (fantastic/delicious). Guaranteed to get a smile if you can use some of these.
