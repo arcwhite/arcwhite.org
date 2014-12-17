@@ -4,23 +4,26 @@ layout: default
 <div id="home" class="page-content wc-container">
 	<div class="posts">
   		{% for post in site.posts limit:10 %}
-  			<div class="post">
-    			<h3 class="post-title">
-			      <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
-			        {{ post.title }}
-			      </a>
-    			</h3>
+				{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+				{% if year >= "2014" %}
+	  			<div class="post">
+	    			<h3 class="post-title">
+				      <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+				        {{ post.title }}
+				      </a>
+	    			</h3>
 
-    			<span class="post-date">{{ post.date | date_to_string }}</span>    			
-  				<p>
-	  				{{ post.excerpt }}	
-  				</p>
-  				<p>
-  					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title}}">
-  						Read More
-					</a>
-  				</p>
-  			</div>
+	    			<span class="post-date">{{ post.date | date_to_string }}</span>
+	  				<p>
+		  				{{ post.excerpt }}
+	  				</p>
+	  				<p>
+	  					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title}}">
+	  						Read More
+						</a>
+	  				</p>
+	  			</div>
+				{% endif %}
   		{% endfor %}
 	</div>
 	<div class="post-footer">

@@ -49,6 +49,7 @@ exclude:
   - Gemfile
   - Rakefile
   - README.md
+  - style.markdown
   - .gitignore
   - .sass-cache
   - Gemfile.lock
@@ -57,3 +58,5 @@ exclude:
 sass:
     sass_dir: assets/css/_sass
     style: :compressed
+
+excerpt_separator: "<!-- more -->"
