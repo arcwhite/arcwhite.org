@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Skynet Paranoia"
-date:   2014-08-19 23:56:45
+date:   2014-12-17 00:00:00
 description: Elon Musk and Stephen Hawking are both afraid of AI.
 categories:
 - AI
