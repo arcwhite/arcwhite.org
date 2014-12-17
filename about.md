@@ -13,7 +13,7 @@ His non-work interests include (but are not limited to) science, weightlifting, 
 ### Contact me
 
 Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at
-[arcwhite@arcwhite.org]arcwhite@arcwhite.org).
+[arcwhite@arcwhite.org](arcwhite@arcwhite.org).
 
 [bgc]: http://bugcrowd.com
 [github]: https://github.com/arcwhite

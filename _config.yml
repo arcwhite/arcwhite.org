@@ -26,16 +26,13 @@ harmony:
     url: http://arcwhite.org
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: 
+  google_analytics_key:
 
   # Profile links, leave blank to ignore
   social:
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
-    pinterest:
+    github: arcwhite
+    twitter: arcwhite
+    facebook: arcwhite
   # Toggle disclaimer in footer
   show_disclaimer: true
 
