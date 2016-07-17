@@ -1,6 +1,4 @@
 Andy White built this!
 
-Remember, me: to push this, s3_website push
-
 Theme (Harmony) Designed and build by [Gayan Virajith](http://gayanvirajith.github.io)
 & [Maheshika Lakmali](http://maheshikalakmali.github.io).
