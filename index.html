@@ -17,11 +17,14 @@ layout: default
 	  				<p>
 		  				{{ post.excerpt }}
 	  				</p>
-	  				<p>
-	  					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title}}">
-	  						Read More
-						</a>
-	  				</p>
+						<p>{{post.excerpt.words}}</p>
+						{% if post.excerpt != post.content %}
+		  				<p>
+		  					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title}}">
+		  						Read More
+								</a>
+		  				</p>
+						{% endif %}
 	  			</div>
 				{% endif %}
   		{% endfor %}
