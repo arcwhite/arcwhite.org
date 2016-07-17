@@ -8,3 +8,5 @@ gem 'github-pages', versions['github-pages']
 gem 'rake'
 gem 's3_website'
 gem 'pygments.rb'
+gem 'fog-aws'
+gem 'mime-types'
