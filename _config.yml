@@ -53,6 +53,7 @@ exclude:
   - .gitignore
   - .sass-cache
   - Gemfile.lock
+  - s3_website.yml
 
 # Sass conversion configs
 sass:
