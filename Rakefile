@@ -40,11 +40,11 @@ task :upload do
       end
     end
 
-    bucket.files.each do |object|
-      unless assets.key? object.key
-        puts "Removing #{object.key} (no longer exists)"
-        object.destroy
-      end
-    end
+    # bucket.files.each do |object|
+    #   unless assets.key? object.key
+    #     puts "Removing #{object.key} (no longer exists)"
+    #     object.destroy
+    #   end
+    # end
   end
 end
